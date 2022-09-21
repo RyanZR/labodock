@@ -1,5 +1,5 @@
 # **🍊 ColabDock Vina**
-Molecular Docking on AutoDock with dynamic options for visualisation and docking.
+CollabDock Vina is a collection of Jupyter Notebooks for conducting molecular docking, virtual screening and protein-ligand interaction analysis interactively and dynamically.
 + [Basic molecular docking](https://github.com/RyanZR/ColabDock-Vina/blob/main/%F0%9F%8D%8AMOUNTAIN_V2.ipynb)
 + [Virtual screening](https://github.com/RyanZR/ColabDock-Vina/blob/main/%F0%9F%8D%8AUNION_V2.ipynb) 
 + [Protein-ligand interaction analysis](https://github.com/RyanZR/ColabDock-Vina/blob/main/%F0%9F%8D%8APLIA.ipynb)
