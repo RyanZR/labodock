@@ -1,7 +1,7 @@
 # **LABODOCK**
 
 > **NOTE:**
-> New version of molecular docking and virtual screening notebooks are coming up. \
+> New version of molecular docking and virtual screening notebooks are under development. \
 > In the meantime, the below notebooks were supported until then. 
 
 LABODOCK is a collection of Jupyter Notebooks created in Google Colab to perform molecular docking, virtual screening and protein-ligand interaction analysis interactively and dynamically.
