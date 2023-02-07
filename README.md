@@ -1,6 +1,3 @@
-> **NOTE:** Newer version of notebooks are under development. In the meantime, the below notebooks were supported until then. 
-
-
 ![LABODOCK](https://github.com/RyanZR/labodock/blob/main/res/labodock_banner.jpg)
 
 # Effortless Docking with Google Colab
@@ -11,11 +8,17 @@
 
 **LABODOCK** is a repository where you can find a collection of Jupyter Notebooks for conducting structure-based molecular docking protocols interactively using Autodock Vina and PLIP on Google Colab. The main goal is to demonstrate the power of cloud-computing to perform docking operations in an effortless and automated manner.
 
-+ [Basic Molecular docking](https://github.com/RyanZR/labodock/blob/main/%F0%9F%8D%8AMOUNTAIN_V2.ipynb)
-+ [Virtual Screening](https://github.com/RyanZR/labodock/blob/main/%F0%9F%8D%8AUNION_V2.ipynb) 
-+ [Protein-Ligand Interaction Analysis](https://github.com/RyanZR/labodock/blob/main/%F0%9F%8D%8APLIA.ipynb)
++ [Basic Molecular docking](https://github.com/RyanZR/labodock/blob/main/notebooks/basic_molecular_docking.ipynb)
++ [Virtual Screening](https://github.com/RyanZR/labodock/blob/main/notebooks/virtual_screening.ipynb) 
 
 **Important:** Do not use the `Run all` option. Run the `Install dependencies and softwares` cell individually and wait for the session to restart. **After that**, you can run all cells if you want. Thank you for your support. 
+
+## Updates
++ Massive improvement on time taken for software to download ! 
++ Improved on naming convention
++ Rewrote code with new technique
++ Added [sample files](https://github.com/RyanZR/labodock/tree/main/samples)
++ Added [images](https://github.com/RyanZR/labodock/tree/main/res)
 
 ## Images
 <div>
