@@ -1,0 +1,29 @@
+HET    HKT  A1101      24                                                       
+HETNAM     HKT 1-[5-(2-FLUOROPHENYL)-1-PYRIDIN-3-YLSULFONYL-PYRROL-3-           
+HETNAM   2 HKT  YL]-~{N}-METHYL-METHANAMINE                                     
+HETSYN     HKT VONOPRAZAN                                                       
+FORMUL   3  HKT    C17 H16 F N3 O2 S                                            
+HETATM 9627  CAL HKT A1101      49.366 -16.072  -2.775  1.00 45.56           C  
+HETATM 9628  CAM HKT A1101      49.215 -17.279  -3.642  1.00 44.49           C  
+HETATM 9629  CAN HKT A1101      48.440 -14.522  -5.471  1.00 48.55           C  
+HETATM 9630  CAO HKT A1101      49.076 -14.034  -1.882  1.00 49.81           C  
+HETATM 9631  CAP HKT A1101      49.983 -14.713  -1.067  1.00 48.39           C  
+HETATM 9632  CAQ HKT A1101      50.152 -15.979  -1.629  1.00 44.17           C  
+HETATM 9633  CAR HKT A1101      50.279 -17.858  -4.319  1.00 48.52           C  
+HETATM 9634  CAS HKT A1101      47.950 -17.868  -3.701  1.00 40.63           C  
+HETATM 9635  CAT HKT A1101      48.314 -15.590  -6.374  1.00 50.69           C  
+HETATM 9636  CAU HKT A1101      49.260 -13.470  -5.879  1.00 44.85           C  
+HETATM 9637  CAV HKT A1101      50.670 -14.169   0.187  1.00 50.79           C  
+HETATM 9638  CAW HKT A1101      50.041 -19.006  -5.064  1.00 50.34           C  
+HETATM 9639  CAX HKT A1101      47.696 -19.003  -4.442  1.00 40.31           C  
+HETATM 9640  CAY HKT A1101      49.898 -13.509  -7.125  1.00 43.00           C  
+HETATM 9641  CAZ HKT A1101      48.762 -19.570  -5.124  1.00 51.40           C  
+HETATM 9642  CBA HKT A1101      49.724 -14.600  -7.969  1.00 42.24           C  
+HETATM 9643  CBB HKT A1101      49.732 -15.715   1.740  1.00 41.89           C  
+HETATM 9644  FAB HKT A1101      51.529 -17.345  -4.284  1.00 51.10           F  
+HETATM 9645  NAI HKT A1101      48.750 -14.894  -2.857  1.00 51.50           N  
+HETATM 9646  NAJ HKT A1101      48.930 -15.609  -7.580  1.00 45.12           N  
+HETATM 9647  NAK HKT A1101      49.830 -14.288   1.396  1.00 44.21           N  
+HETATM 9648  OAC HKT A1101      47.186 -13.205  -3.685  1.00 48.96           O  
+HETATM 9649  OAD HKT A1101      46.517 -15.338  -3.984  1.00 47.57           O  
+HETATM 9650  SAA HKT A1101      47.696 -14.505  -4.019  1.00 59.89           S  
