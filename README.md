@@ -7,7 +7,7 @@
 [![license](https://img.shields.io/badge/license-MIT-informational)](https://github.com/RyanZR/labodock/blob/main/LICENSE)
 
 
-**LABODOCK** is a repository where you can find a collection of Jupyter Notebooks for conducting structure-based molecular docking protocols interactively using Autodock Vina and PLIP on Google Colab. The main goal is to demonstrate the power of cloud-computing to perform docking operations in an effortless and automated manner.
+**LABODOCK** is a repository where you can find a collection of Jupyter Notebooks for conducting structure-based molecular docking protocols interactively using Autodock Vina and PLIP on Google Colab. The main goal is to demonstrate the power of cloud-computing for conducting docking operations in an effortless and automated manner.
 
 + [Basic Molecular docking](https://github.com/RyanZR/labodock/blob/main/notebooks/basic_molecular_docking.ipynb)
 + [Virtual Screening](https://github.com/RyanZR/labodock/blob/main/notebooks/virtual_screening.ipynb) 
