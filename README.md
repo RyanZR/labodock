@@ -13,21 +13,21 @@
 
 **Important:** Do not use the `Run all` option. Run the `Install dependencies and softwares` cell individually and wait for the session to restart. **After that**, you can run all cells if you want. Thank you for your support. 
 
-## Updates
-+ Massive improvement on time taken for software to download ! 
-+ Improved on naming convention
-+ Rewrote code with new technique
-+ Added [sample files](https://github.com/RyanZR/labodock/tree/main/samples)
-+ Added [images](https://github.com/RyanZR/labodock/tree/main/res)
 
 ## Images
 <div>
   <img align="top" src="https://github.com/RyanZR/labodock/blob/main/res/5YLU_vanoprazan_interaction.jpg" alt="vanoprazan" width="46.3%">
   <img align="top" src="https://github.com/RyanZR/labodock/blob/main/res/rank_score.jpg" alt="rank_score" width="35%">
 </div>
-  
+
+## Limitation
++ There is no guarantee that these notebooks will run on platform other than Google Colab.
++ These notebooks do not necessarily reflect the standard protocol of docking operation. It is just a simple pipeple for illustrating molecular docking. 
+
+
 ## Bug
 If you encounter any bugs, please report the issue to [https://github.com/RyanZR/labodock/issues](https://github.com/RyanZR/labodock/issues).
+
 
 ## References
 1. Trott O, Olson AJ. AutoDock Vina: improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading. J Comput Chem. 2010 Jan 30;31(2):455-61. doi: 10.1002/jcc.21334. PMID: 19499576; PMCID: PMC3041641.
