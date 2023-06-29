@@ -1,6 +1,7 @@
 ![LABODOCK](https://github.com/RyanZR/labodock/blob/main/res/labodock_banner.jpg)
 
 # Effortless Docking with Google Colab
+> UPDATE: Going to fix the condacolab and improve code base soon. Stay tuned. 
 [![status](https://img.shields.io/badge/status-unstable-red)](https://github.com/RyanZR/labodock)
 [![version](https://img.shields.io/badge/version-1.2.0-blue)](https://github.com/RyanZR/labodock/tree/main/notebooks)
 [![size](https://img.shields.io/github/repo-size/RyanZR/labodock)](https://github.com/RyanZR/labodock)
