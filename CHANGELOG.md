@@ -2,6 +2,10 @@
 All notable changes to this repository will be documented in this file. 
 
 ## [1.2.1] - 2023-08-12
+### Added
++ [basic_molecular_docking](https://github.com/RyanZR/labodock/blob/main/notebooks/basic_molecular_docking.ipynb) MAJOR Added `--cpu` parameter in %vina
++ [virtual_screening](https://github.com/RyanZR/labodock/blob/main/notebooks/virtual_screening.ipynb) MAJOR Added `--cpu` parameter in %vina
+
 ### Changed
 + [basic_molecular_docking](https://github.com/RyanZR/labodock/blob/main/notebooks/basic_molecular_docking.ipynb) MAJOR Upgraded packages: py3Dmol 2.0.3, rdkit-pypi 2022.9.5, biopython 1.80, openbabel 3.1.1, zlib 1.2.13
 + [basic_molecular_docking](https://github.com/RyanZR/labodock/blob/main/notebooks/basic_molecular_docking.ipynb) MINOR Renamed LABOGRID to [LaBOX](https://github.com/RyanZR/LaBOX)
