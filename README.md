@@ -1,10 +1,10 @@
 ![LABODOCK](https://github.com/RyanZR/labodock/blob/main/res/labodock_banner.jpg)
 
 # Effortless Docking with Google Colab
-> UPDATE: Going to fix the condacolab and improve code base soon. Stay tuned. 
+> UPDATE: Fixed packages installation issues. MAJOR UPDATE in code base coming soon with better readability and optimisation. Stay tunned!
 
-[![status](https://img.shields.io/badge/status-unstable-red)](https://github.com/RyanZR/labodock)
-[![version](https://img.shields.io/badge/version-1.2.0-blue)](https://github.com/RyanZR/labodock/tree/main/notebooks)
+[![status](https://img.shields.io/badge/status-pass-green)](https://github.com/RyanZR/labodock)
+[![version](https://img.shields.io/badge/version-1.2.1-blue)](https://github.com/RyanZR/labodock/tree/main/notebooks)
 [![size](https://img.shields.io/github/repo-size/RyanZR/labodock)](https://github.com/RyanZR/labodock)
 [![license](https://img.shields.io/badge/license-MIT-informational)](https://github.com/RyanZR/labodock/blob/main/LICENSE)
 
@@ -19,8 +19,8 @@
 
 ## Features
 + Automated molecular docking operation 
-+ intuitive and interactive user interface
-+ Five grid box defining methods: [LABOGRID](https://github.com/RyanZR/labogrid), [eBoxSize](https://github.com/michal-brylinski/eboxsize) ...
++ Intuitive and interactive user interface
++ Five grid box defining methods: [LaBOX](https://github.com/RyanZR/LaBOX), [eBoxSize](https://github.com/michal-brylinski/eboxsize) ...
 + Autodock Vina and Protein-Ligand Interaction Profiler integration
 + 3D Docking result and docking socres clustering
 
