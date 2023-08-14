@@ -1,12 +1,13 @@
 ![LABODOCK](https://github.com/RyanZR/labodock/blob/main/res/labodock_banner.jpg)
 
 # Effortless Docking with Google Colab
-> UPDATE: Fixed packages installation issues. MAJOR UPDATE in code base coming soon with better readability and optimisation. Stay tunned!
+> UPDATE: Fixed packages installation issues. MAJOR UPDATE in Q4 2023 with new RMSD calculation, optimised and better code readability and much more. Stay tunned!
 
 [![status](https://img.shields.io/badge/status-pass-green)](https://github.com/RyanZR/labodock)
 [![version](https://img.shields.io/badge/version-1.2.2-blue)](https://github.com/RyanZR/labodock/tree/main/notebooks)
 [![size](https://img.shields.io/github/repo-size/RyanZR/labodock)](https://github.com/RyanZR/labodock)
 [![license](https://img.shields.io/badge/license-MIT-informational)](https://github.com/RyanZR/labodock/blob/main/LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8246978.svg)](https://doi.org/10.5281/zenodo.8246978)
 
 
 **LABODOCK** is a repository where you can find a collection of Jupyter Notebooks for conducting structure-based molecular docking protocols interactively using Autodock Vina and PLIP on Google Colab. The main goal is to demonstrate the power of cloud-computing for conducting docking operations in an effortless and automated manner.
