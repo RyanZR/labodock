@@ -4,7 +4,7 @@
 > UPDATE: Fixed packages installation issues. MAJOR UPDATE in code base coming soon with better readability and optimisation. Stay tunned!
 
 [![status](https://img.shields.io/badge/status-pass-green)](https://github.com/RyanZR/labodock)
-[![version](https://img.shields.io/badge/version-1.2.1-blue)](https://github.com/RyanZR/labodock/tree/main/notebooks)
+[![version](https://img.shields.io/badge/version-1.2.2-blue)](https://github.com/RyanZR/labodock/tree/main/notebooks)
 [![size](https://img.shields.io/github/repo-size/RyanZR/labodock)](https://github.com/RyanZR/labodock)
 [![license](https://img.shields.io/badge/license-MIT-informational)](https://github.com/RyanZR/labodock/blob/main/LICENSE)
 
