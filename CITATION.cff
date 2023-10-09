@@ -4,9 +4,9 @@ authors:
 - family-names: "Loke"
   given-names: "Zhi Rong"
 title: "LABODOCK: A Colab-Based Molecular Docking Tools"
-version: 1.2.2
-doi: 10.5281/zenodo.8246978
-date-released: 2023-08-14
+version: 2.0.0
+doi: 10.5281/zenodo.8246977
+date-released: 2023-10-12
 repository-code: https://github.com/RyanZR/labodock
 keywords:
   - "drug design"
