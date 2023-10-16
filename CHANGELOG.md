@@ -3,6 +3,12 @@ All notable changes to this project will be documented in this file. \
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
+### Added
++ **`DCK`** : Add `vinardo` scoring option
+
+### Changed
++ **`PKG`** : Swtich setup process to using `environment.yml`
+
 ### Fixed
 + **`PRE`** : Fix typo from `2>>` to `&>>` in `Generate ligand SD files` cell [#4](https://github.com/RyanZR/labodock/issues/4)
 
