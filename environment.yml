@@ -1,0 +1,16 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib=3.7.1
+  - openbabel=3.1.1
+  - pandas=1.5.3
+  - plip=2.3.0
+  - python=3.10.10
+  - seaborn=0.12.2
+  - spyrmsd=0.6.0
+  - pip:
+    - meeko==0.5.0
+    - pillow==10.1.0
+    - py3Dmol==2.0.3
+    - rdkit-pypi==2022.9.5
