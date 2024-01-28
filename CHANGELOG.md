@@ -4,10 +4,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ## [Unreleased]
 ### Added
++ **`PRE`** : Add assertion to check existance of protein `PDB` file
 + **`DCK`** : Add `vinardo` scoring option
 
 ### Changed
++ **`PKG`** : Update `condacolab` from `0.1.7` to `0.1.8` [#7](https://github.com/RyanZR/labodock/issues/7)
 + **`PKG`** : Swtich setup process to using `environment.yml`
++ **`SRC`** : Improve cell and output descriptions for better understanding 
++ **`PRE`** : Replace `extract_entity()` with `extract_protein()` and `extract_ligand()` for better extraction handling
+
 
 ### Fixed
 + **`PRE`** : Fix typo from `2>>` to `&>>` in `Generate ligand SD files` cell [#4](https://github.com/RyanZR/labodock/issues/4)
