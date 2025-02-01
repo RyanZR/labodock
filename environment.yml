@@ -6,10 +6,10 @@ dependencies:
   - openbabel=3.1.1
   - pandas=1.5.3
   - plip=2.3.0
-  - python=3.10.10
+  - python=3.11.11
   - seaborn=0.12.2
   - spyrmsd=0.6.0
-  - pip=23.3
+  - pip=25.0
   - pip:
     - meeko==0.5.0
     - py3Dmol==2.0.3

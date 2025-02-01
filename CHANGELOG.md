@@ -8,8 +8,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 + **`DCK`** : Add `vinardo` scoring option
 
 ### Changed
-+ **`PKG`** : Update `condacolab` from `0.1.7` to `0.1.8` [#7](https://github.com/RyanZR/labodock/issues/7)
++ **`PKG`** : Update `condacolab` from `0.1.7` to `0.1.10` [#7](https://github.com/RyanZR/labodock/issues/7), [Condacolab #60](https://github.com/conda-incubator/condacolab/issues/60#issuecomment-2011099927)
++ **`PKG`** : Replace `conda.install_mambaforge()` with `conda.install()` [Condacolab `61e0284`](https://github.com/conda-incubator/condacolab/commit/61e0284afe9dba2f6fc322a3a7d05cb2dfcf7d54)
 + **`PKG`** : Swtich setup process to using `environment.yml`
++ **`PKG`** : Update `pip` from `23.0` to `25.0` in `environment.yml`  
++ **`PKG`** : Update `python` from `3.10.10` to `3.11.11` in `environment.yml`  
 + **`SRC`** : Improve cell and output descriptions for better understanding 
 + **`PRE`** : Replace `extract_entity()` with `extract_protein()` and `extract_ligand()` for better extraction handling
 
